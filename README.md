@@ -64,7 +64,7 @@
 
 <summary>:zap: Github Stats</summary>
 
-[![Pius' github stats](https://github-readme-stats.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/piuslucky)
+[![Pius' github stats](https://github-readme-stats.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
 
 
 
