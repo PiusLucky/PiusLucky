@@ -66,7 +66,7 @@
 
 <summary>:zap: Github Stats</summary>
 
-[![Pius' github stats](github-readme-stats-seven-navy.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
+[![Pius' github stats](https://github-readme-stats-seven-navy.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
 
 
 [website]: https://https://www.joint-access-programmer.com
