@@ -56,6 +56,6 @@
 [![Pius' github stats](https://github-readme-stats-seven-navy.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
 
 
-[website]: https://https://www.joint-access-programmer.com
+[website]: https://www.joint-access-programmer.com
 [website_matplotlib]: https://www.joint-access-programmer.com/matplotlib-tutorial-becoming-matplotlib-ninja-1 
 [linkedin]: https://www.linkedin.com/in/lucky-pius-52b2b4179
