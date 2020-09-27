@@ -51,11 +51,6 @@
 
 ---
 
-<summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-
 <summary>:zap: Github Stats</summary>
 
 [![Pius' github stats](https://github-readme-stats-seven-navy.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
