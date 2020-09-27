@@ -45,24 +45,18 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Check out my Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][website]
+➡️ [Go to Website...][website]
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+<summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
-</details>
 
 <summary>:zap: Github Stats</summary>
 
