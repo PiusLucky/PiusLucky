@@ -66,6 +66,9 @@
 
 [![Pius' github stats](https://github-readme-stats.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
 
+---
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PiusLucky&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [website]: https://https://www.joint-access-programmer.com
