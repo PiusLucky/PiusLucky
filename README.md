@@ -5,7 +5,7 @@
 
 ## A Nigeria-based Software Engineer!
 
-- 🔥 [Currently writing short series on Matplotlib!]([website_matplotlib])
+- 🔥 Currently writing short series on [Matplotlib][website_matplotlib]!
 - 🔥 Currently Building React Apps 
 - 🔥 Machine Learning an overall target!
 - 🌱 I’m currently learning everything possible!
