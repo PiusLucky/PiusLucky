@@ -62,15 +62,11 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-  [![Pius' github stats](https://github-readme-stats.vercel.app/api?username=PiusLucky)](https://github.com/piuslucky/github-readme-stats)
+[![Pius' github stats](https://github-readme-stats.vercel.app/api?username=PiusLucky)](https://github.com/piuslucky)
 
 
-</details>
 
 [website]: https://https://www.joint-access-programmer.com
 [website_matplotlib]: https://www.joint-access-programmer.com/matplotlib-tutorial-becoming-matplotlib-ninja-1 
