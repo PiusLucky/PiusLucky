@@ -1,6 +1,4 @@
-- name: GitHub - Activity - Readme
-  uses: jamesgeorge007/github-activity-readme@v0.3.1
-name: Update README
+name: GitHub - Activity - Readme
 
 on:
   schedule:
@@ -14,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses:  jamesgeorge007/github-activity-readme@v0.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
