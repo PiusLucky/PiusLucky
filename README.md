@@ -35,8 +35,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-
+[<img align="left" alt="Digital Ocean" width="26px" src="https://avatars3.githubusercontent.com/u/4650108?s=200&v=4" />][website]
+[<img align="left" alt="Heroku" width="26px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />][website]
 <br />
 <br />
 
@@ -66,13 +66,6 @@
 
 [![Pius' github stats](https://github-readme-stats.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
 
----
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PiusLucky&repo=piuslucky)](https://github.com/piuslucky/piuslucky)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piuslucky&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://https://www.joint-access-programmer.com
 [website_matplotlib]: https://www.joint-access-programmer.com/matplotlib-tutorial-becoming-matplotlib-ninja-1 
