@@ -1,6 +1,6 @@
 ### Hi there, I'm Pius Lucky - founder [joint-access-programmer][website] 👋
 
-[![Website](https://img.shields.io/website?label=https://www.joint-access-programmer.com&style=for-the-badge&url=https%3A%2F%2Fhttps://www.joint-access-programmer.com)](https://www.joint-access-programmer.com)
+[![Website](https://img.shields.io/website?label=https://www.joint-access-programmer.com&style=for-the-badge&url=https://www.joint-access-programmer.com)](https://www.joint-access-programmer.com)
 
 
 ## A Nigeria-based Software Engineer!
