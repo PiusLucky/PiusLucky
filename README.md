@@ -1,4 +1,4 @@
-### Hi there, I'm Pius Lucky - Founder [joint-access-programmer][website] 👋
+### Hi there, I'm Pius Lucky - Founder [joint-access-programmer.com][website] 👋
 
 [![Website](https://img.shields.io/website?label=https://www.joint-access-programmer.com&style=for-the-badge&url=https://www.joint-access-programmer.com)](https://www.joint-access-programmer.com)
 
