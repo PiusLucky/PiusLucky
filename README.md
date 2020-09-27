@@ -68,8 +68,11 @@
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PiusLucky&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PiusLucky&repo=piuslucky)](https://github.com/piuslucky/piuslucky)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piuslucky&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://https://www.joint-access-programmer.com
 [website_matplotlib]: https://www.joint-access-programmer.com/matplotlib-tutorial-becoming-matplotlib-ninja-1 
