@@ -1,11 +1,11 @@
-### Hi there, I'm Pius Lucky - founder [joint-access-programmer][website] 👋
+### Hi there, I'm Pius Lucky - Founder [joint-access-programmer][website] 👋
 
 [![Website](https://img.shields.io/website?label=https://www.joint-access-programmer.com&style=for-the-badge&url=https://www.joint-access-programmer.com)](https://www.joint-access-programmer.com)
 
 
 ## A Nigeria-based Software Engineer!
 
-- 🔥 Currently writing a short series on Matplotlib[website_matplotlib]!
+- 🔥 [Currently writing short series on Matplotlib!]([website_matplotlib])
 - 🔥 Currently Building React Apps 
 - 🔥 Machine Learning an overall target!
 - 🌱 I’m currently learning everything possible!
