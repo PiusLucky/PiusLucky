@@ -48,7 +48,7 @@
 ---
 
 ### 📕 Check out my Blog Posts
-
+➡️ Trending https://www.joint-access-programmer.com/redux-asynchronous-actions-thunk-custom-middleware/
 ➡️ [Go to Website...][website]
 
 ---
