@@ -54,10 +54,6 @@
 
 ---
 
-<summary>:zap: Github Stats</summary>
-
-[![Pius' github stats](https://github-readme-stats-git-master.piuslucky.vercel.app/api?username=PiusLucky&count_private=true&show_icons=true&theme=vue-dark&count_private=true)](https://github.com/piuslucky)
-
 
 [website]: https://www.joint-access-programmer.com
 [website_matplotlib]: https://www.joint-access-programmer.com/matplotlib-tutorial-becoming-matplotlib-ninja-1 
