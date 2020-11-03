@@ -48,6 +48,10 @@
 ---
 
 ### 📕 Check out my Blog Posts
+➡️ Trending https://www.joint-access-programmer.com/all-you-need-know-about-usestate-hook-in-react/
+<br>
+➡️ Trending https://www.joint-access-programmer.com/understanding-react-context-api-hooks-firebase/
+<br>
 ➡️ Trending https://www.joint-access-programmer.com/redux-asynchronous-actions-thunk-custom-middleware/
 <br>
 ➡️ [Go to Website...][website]
