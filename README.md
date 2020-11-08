@@ -59,9 +59,9 @@
 ---
 
 ### 📕 Sites on Demand
-➡️  [JointAccessProgrammer]][website](for developers)
+➡️  [JointAccessProgrammer][website]<b>(for developers)</b>
 <br>
-➡️ [SyntaxHighlighter][website2](for developers)
+➡️ [SyntaxHighlighter][website2]<b>(for developers)</b>
 
 ---
 
