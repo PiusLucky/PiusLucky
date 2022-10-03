@@ -18,13 +18,13 @@ I also have working knowledge of design tools such as Illustrator, Figma and Pho
 
 
 
-### Connect with me:
+### 🤙 Connect with me:
 
 https://refem.vercel.app <br />
 https://www.linkedin.com/in/lucky-pius-52b2b4179
 
 
-### Portfolio:
+### 🐐 Portfolio: 
 https://hire-pius.herokuapp.com
 <br />
 
