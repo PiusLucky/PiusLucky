@@ -5,7 +5,7 @@
 ## Who am I?
 I design & build responsive web apps from scratch; from the Database & RESTful API through to the UI.
 
-Five (5)+ years of extensive professional experience and skills in HTML5, CSS3, Javascript, jQuery (including jQuery Ajax), Bootstrap 3 (up to Bootstrap5), Node.js, React.js and Python (Django) has taught me to always pay keen attention to details & to follow certain clean code conventions.
+Five (3)+ years of extensive professional experience and skills in HTML5, CSS3, Javascript, jQuery (including jQuery Ajax), Bootstrap 3 (up to Bootstrap5), Node.js, React.js and Python (Django) has taught me to always pay keen attention to details & to follow certain clean code conventions.
 
 I also have working knowledge of design tools such as Illustrator, Figma and Photoshop for prototypal UI/UX. 
 
