@@ -17,6 +17,9 @@ I also have working knowledge of design tools such as Illustrator, Figma and Pho
 - 🚀 I’m looking forward to contributing more to open source projects
 
 
+### 📦 NPM Packages I have built: 
+Vue3 multi-stepper: https://www.npmjs.com/package/vue3-multi-stepper
+
 
 ### 🤙 Connect with me:
 
@@ -26,5 +29,4 @@ https://www.linkedin.com/in/lucky-pius-52b2b4179
 
 ### 🐐 Portfolio: 
 https://hire-pius.herokuapp.com
-<br />
 
