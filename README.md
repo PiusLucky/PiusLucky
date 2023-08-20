@@ -28,5 +28,5 @@ https://www.linkedin.com/in/lucky-pius-52b2b4179
 
 
 ### 🐐 Portfolio: 
-https://hire-pius.herokuapp.com
+https://luckypius.netlify.app/
 
