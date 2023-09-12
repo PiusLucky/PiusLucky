@@ -3,11 +3,13 @@
 [![Website](https://img.shields.io/website?label=https://refem.vercel.app&style=for-the-badge&url=https://refem.vercel.app)](https://refem.vercel.app)
 
 ## Who am I?
-I design & build responsive web apps from scratch; from the Database & RESTful API through to the UI.
+I specialize in the comprehensive design and development of responsive web applications, handling every aspect from database design and RESTful API implementation to crafting user interfaces.
 
-Three (3)+ years of extensive professional experience and skills in HTML5, CSS3, Javascript, jQuery (including jQuery Ajax), Bootstrap 3 (up to Bootstrap5), Node.js, React.js, Vue2/3 and Python (Django) has taught me to always pay keen attention to details & to follow certain clean code conventions.
+With over three years of extensive professional experience, my skillset encompasses a wide range of technologies and languages, including HTML5, CSS3, JavaScript, jQuery (including jQuery Ajax), Bootstrap (from version 3 to 5), Node.js, React.js, Next.js, various Object-Relational Mapping Systems (ORMs) like Sequelize and TypeORM, Vue.js (both 2 and 3), Python with Django, and expertise in building RESTful web services and GraphQL APIs.
 
-I also have working knowledge of design tools such as Illustrator, Figma and Photoshop for prototypal UI/UX. 
+My commitment to excellence has honed my ability to maintain meticulous attention to detail and adhere to best practices in clean code development.
+
+Additionally, I possess a working proficiency in design tools such as Illustrator, Figma, and Photoshop, allowing me to create prototype user interfaces and enhance the overall user experience.
 
 
 ## A Nigeria-based Software Engineer!
