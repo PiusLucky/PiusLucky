@@ -1,6 +1,4 @@
-### Hi there, I'm Pius Lucky - Founder [REFEM Nigeria] 👋
-
-[![Website](https://img.shields.io/website?label=https://refem.vercel.app&style=for-the-badge&url=https://refem.vercel.app)](https://refem.vercel.app)
+### Hi there, I'm Pius Lucky 👋
 
 ## Who am I?
 I specialize in the comprehensive design and development of responsive web applications, handling every aspect from database design and RESTful API implementation to crafting user interfaces.
