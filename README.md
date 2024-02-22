@@ -22,8 +22,6 @@ Vue3 multi-stepper: https://www.npmjs.com/package/vue3-multi-stepper
 
 
 ### 🤙 Connect with me:
-
-https://refem.vercel.app <br />
 https://www.linkedin.com/in/lucky-pius-52b2b4179
 
 
