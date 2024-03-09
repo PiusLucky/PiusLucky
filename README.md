@@ -17,6 +17,9 @@ Additionally, I possess a working proficiency in design tools such as Illustrato
 - 🚀 I’m looking forward to contributing more to open source projects
 
 
+### 📺 Youtube Channel
+https://www.youtube.com/@NewAwesomeTech/videos
+
 ### 📦 NPM Packages I have built: 
 Vue3 multi-stepper: https://www.npmjs.com/package/vue3-multi-stepper
 
