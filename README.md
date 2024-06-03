@@ -13,7 +13,7 @@ Additionally, I possess a working proficiency in design tools such as Illustrato
 ## A Nigeria-based Software Engineer!
 
 - 🔥 MERN, Python(Django) complex Applications
-- 🔥 Complex Audio Mixing with Pydub, audio manipulation with WhisperX
+- 🔥 Complex Audio Mixing with Pydub, audio manipulation with WhisperX, Image transformation with Skia :)
 - 🌱 I’m currently learning everything possible!
 - 🚀 I’m looking forward to contributing more to open source projects
 
