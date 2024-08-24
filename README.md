@@ -14,7 +14,7 @@ Additionally, I possess a working proficiency in design tools such as Illustrato
 
 - 🔥 MERN, Python(Django) complex Applications
 - 🌐 Scalable web applications with battle-tested testing suites and pipelines
-- 📱 Building store-ready mobile apps for government-backed companies & entrepreneur 
+- 📱 Building store-ready mobile apps for government-backed companies & entrepreneurs
 - 🌱 Ring me up, always open to new offers.
 
 
