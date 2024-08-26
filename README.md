@@ -13,8 +13,8 @@ Additionally, I possess a working proficiency in design tools such as Illustrato
 ## A Nigeria-based 5X Software Engineer!
 
 - 🔥 MERN, Python(Django) complex Applications
-- 🌐 Scalable web applications with battle-tested testing suites and pipelines
-- 📱 Building store-ready mobile apps for Solo Entrepreneurs & Government-backed companies in UAE(Dubai), Sweden etc.
+- 🌐 Scalable web applications with battle-tested testing suites and pipelines for Solo Entrepreneurs & Government-backed companies in UAE(Dubai), Sweden etc.
+- 📱 Building store-ready mobile apps with react native expo/cli
 - 🌱 Ring me up, always open to new offers.
 
 
