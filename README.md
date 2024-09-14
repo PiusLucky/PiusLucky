@@ -28,7 +28,8 @@ https://luckypius.netlify.app/
 https://www.linkedin.com/in/lucky-pius-52b2b4179
 
 ### 📦 NPM Packages I have built: 
-Vue3 multi-stepper: https://www.npmjs.com/package/vue3-multi-stepper
+- Vue3 Multi Stepper: https://www.npmjs.com/package/vue3-multi-stepper
+- Comment Extensible: https://github.com/PiusLucky/comment-extensible
 
 
 
