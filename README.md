@@ -10,7 +10,7 @@ My commitment to excellence has honed my ability to maintain meticulous attentio
 ## A Nigeria-based 5X Software Engineer!
 
 - 🔥 MERN, Python(Django/Flask) complex Applications
-- 🌐 Scalable web applications with battle-tested testing suites and pipelines for Solo Entrepreneurs & Government-backed companies in UAE(Dubai), Sweden etc.
+- 🌐 Scalable web applications with battle-tested testing suites and pipelines for Solo Entrepreneurs & Government-backed companies in UAE(Dubai), Sweden, Germany etc.
 - 📱 Building store-ready mobile apps with react native expo/cli
 - 🌱 Ring me up, always open to new offers.
 
