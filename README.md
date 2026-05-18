@@ -1,27 +1,35 @@
-### Hi there, I'm Pius Lucky 👋
+# Hi, I’m Pius Lucky 👋
 
-## Who am I?
-I specialize in the comprehensive design and development of responsive web and mobile applications, handling every aspect from database design and RESTful API implementation to crafting sleek user interfaces.
+## Senior Software Engineer | Fullstack & Mobile Application Developer
 
-With close to a decade in this field, my skillset encompasses a wide range of technologies and languages.
+I design and build scalable, high-performance web and mobile applications — from system architecture and database design to API development and polished user experiences.
 
-My commitment to excellence has honed my ability to maintain meticulous attention to detail and adhere to best practices in clean code development.
+With nearly a decade of hands-on experience, I have worked across diverse technologies and industries, delivering reliable software solutions for startups, solo entrepreneurs, and enterprise-level organizations.
 
-## A Nigeria-based 5X Software Engineer!
-- 🌐 Scalable web applications with battle-tested testing suites and pipelines for Solo Entrepreneurs & Government-backed companies in UAE(Dubai), Sweden, Germany etc.
-- 📱 Building store-ready mobile apps with react native expo/cli
-- 🌱 Ring me up, always open to new offers.
+My expertise spans fullstack engineering, backend architecture, cloud-integrated systems, and cross-platform mobile development, with a strong focus on clean code, maintainability, scalability, and engineering best practices.
 
+## What I Do
 
-### 📺 Youtube Channel
-https://www.youtube.com/@NewAwesomeTech/videos
+* 🌐 Build scalable, production-ready web applications with robust architectures, testing pipelines, and deployment workflows.
+* 📱 Develop store-ready mobile applications using React Native (Expo & CLI).
+* ⚙️ Design secure RESTful APIs, backend services, and optimized database systems.
+* 🚀 Deliver high-impact software solutions for businesses across the UAE (Dubai), Sweden, Germany, Nigeria, and beyond.
+* 🧠 Focus on performance, developer experience, clean architecture, and long-term maintainability.
 
-### 🐐 Portfolio: 
-https://luckypius.netlify.app/
+## Open to Opportunities
 
-### 🤙 Connect with me:
-https://www.linkedin.com/in/lucky-pius-52b2b4179
+I’m always open to collaborating on impactful products, engineering teams, and innovative software solutions.
 
+---
 
+## 📺 YouTube Channel
 
+[New Awesome Tech](https://www.youtube.com/@NewAwesomeTech/videos?utm_source=chatgpt.com)
 
+## 🐐 Portfolio
+
+[Pius Lucky Portfolio](https://luckypius.netlify.app/?utm_source=chatgpt.com)
+
+## 🤙 Connect With Me
+
+[LinkedIn — Pius Lucky](https://www.linkedin.com/in/lucky-pius-52b2b4179?utm_source=chatgpt.com)
